@@ -1,0 +1,2 @@
+E:\учеба\3 course\gurin\tank\tank\obj\Debug\Assembly-CSharp-Editor.csprojResolveAssemblyReference.cache
+E:\учеба\3 course\gurin\tank\tank\obj\Debug\Assembly-CSharp-Editor.csproj.CoreCompileInputs.cache
